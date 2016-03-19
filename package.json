@@ -1,0 +1,23 @@
+{
+  "name": "glid",
+  "version": "0.0.1",
+  "description": "Fast 2D WebGL renderer",
+  "author": "Joshua Groves <josh@joshgroves.com>",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com:glid/glid.git"
+  },
+  "keywords": [
+    "glid",
+    "render",
+    "renderer",
+    "webgl",
+    "gl",
+    "javascript",
+    "js",
+    "canvas",
+    "2d"
+  ]
+}
